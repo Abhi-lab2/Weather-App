@@ -1,5 +1,5 @@
 # Weather-App
-Provides city weather details with inbuild Google-map
+Provides city / State weather details with inbuild Google-map
 
 ## Project Demo - 
 https://ab-weather.netlify.app/
